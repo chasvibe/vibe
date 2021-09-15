@@ -40,7 +40,7 @@ def tetra():
     while True:
         try:
             userinput2 = eval(input("\n ¤Please give me the width of the tetrahedron's sides in cm¤ \n"))
-            tetravolume = math.sqrt((userinput2 ** 3) / 6)
+            tetravolume = (userinput2 ** 3 / (6 * math.sqrt(2)))
             print("\n                        ¤Thank you!¤")
             print("¤The volume of your tetrahedron is ", tetravolume, " cubic centimeters¤\n")
             break
