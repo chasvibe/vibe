@@ -1,4 +1,10 @@
-
+#|\     /|\__   __/(  ___ \ (  ____ \
+#| )   ( |   ) (   | (   ) )| (    \/
+#| |   | |   | |   | (__/ / | (
+#( (   ) )   | |   |  __ (  |  __)
+# \ \_/ /    | |   | (  \ \ | (
+#  \   /  ___) (___| )___) )| (____/\
+#   \_/   \_______/|______/ (_______/
 #Both the functions made in this script are almost identical,
 #which is why I'm using the same variable (userinput) but with a '2' in 'tetra()'
 #Importing math module for square rooting
