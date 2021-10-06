@@ -57,3 +57,4 @@ while True:
             tetra()
     except NameError:
         print("                       ¤Invalid input¤")
+

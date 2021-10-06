@@ -10,6 +10,6 @@ print("Please enter a line of code:\n")
 if usr == 1:
     while True:
         f = open("appending_vibe.py", "a")
-        f.write(input("\n >>> "))
+        new_input = f.write(input("\n >>> "))
         f.write("\n")
         f.close()
