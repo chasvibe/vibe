@@ -1,3 +1,4 @@
+#This is a unnecessary edit
 name = str(input("Please enter your name: "))
 email = str(input("Please enter your email adress: "))
 age = str(input("Please enter your age: "))
